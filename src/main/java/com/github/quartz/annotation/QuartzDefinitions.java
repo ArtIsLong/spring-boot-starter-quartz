@@ -1,0 +1,1 @@
+package com.github.quartz.annotation;import java.lang.annotation.*;/** * */@Target({ElementType.METHOD, ElementType.TYPE, ElementType.CONSTRUCTOR})@Retention(RetentionPolicy.RUNTIME)@Documentedpublic @interface QuartzDefinitions {    QuartzDefinition[] quartzDefinitions();}
