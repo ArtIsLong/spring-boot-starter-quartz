@@ -17,9 +17,9 @@
     </licenses>
     <scm>
         <tag>master</tag>
-        <url>git@github.com:ArtIsLong/spring-boot-starter.git</url>
-        <connection>scm:git:git@github.com:ArtIsLong/spring-boot-starter.git</connection>
-        <developerConnection>scm:git:git@github.com:ArtIsLong/spring-boot-starter.git</developerConnection>
+        <url>git@github.com:ArtIsLong/spring-boot-starter-quartz.git</url>
+        <connection>scm:git:git@github.com:ArtIsLong/spring-boot-starter-quartz.git</connection>
+        <developerConnection>scm:git:git@github.com:ArtIsLong/spring-boot-starter-quartz.git</developerConnection>
     </scm>
     <developers>
         <developer>
