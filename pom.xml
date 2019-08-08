@@ -28,7 +28,6 @@
             <organization>fndsoft</organization>
         </developer>
     </developers>
-
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
